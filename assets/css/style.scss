@@ -13,6 +13,14 @@ header {
   background-color: #202830 !important;
 }
 
+header > h1 > a {
+  color: #ffffff !important;
+}
+
+header > h1 > a:hover {
+  color: #ffffff !important;
+}
+
 section {
   color: #e0e0e0 !important;
 }
