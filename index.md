@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# MVP Consulting
-
 We stitch clean logic to curious sparks,<br/>
 Versioned winds in branching arcs.<br/>
 Engineers of quiet change,<br/>
