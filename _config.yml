@@ -3,3 +3,15 @@ description: Engineers of quiet change - AI & Software Development
 theme: jekyll-theme-minimal
 logo: /assets/logo.svg
 show_downloads: false
+repository: mvpco/mvpco.github.io
+
+# Disable github-metadata plugin to avoid API calls during build
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Explicitly exclude the github-metadata plugin
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
